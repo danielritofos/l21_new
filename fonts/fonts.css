@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica-Regular.woff2') format('woff2'),
+        url('Helvetica-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica-Light.woff2') format('woff2'),
+    url('Helvetica-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Bicubik';
+    src: url('Bicubik.woff2') format('woff2'),
+    url('Bicubik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Vox Wide Med';
+    src: url('VoxWide-Medium.woff2') format('woff2'),
+    url('VoxWide-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*
+
+@font-face {
+    font-family: 'Orbitron-reg';
+    src: url('Orbitron-Reg.woff2') format('woff2'),
+    url('Orbitron-Reg.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Orbitron';
+    src: url('Orbitron-Regular.woff2') format('woff2'),
+    url('Orbitron-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+*/
